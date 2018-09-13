@@ -2,7 +2,8 @@
 A Review of an Adventure Game Called *Shadowless*
 
 # Details
-*Shadowless* is an adventure game I found on https://armorgames.com/ It was created by Dragosha Games
+*Shadowless* is an adventure game I found on https://armorgames.com/. It was created by Dragosha Games
+
 [Try *Shadowless* here](https://armorgames.com/play/18046/shadowless?tag-referral=adventure)
 
 # Summary
