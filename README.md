@@ -18,6 +18,8 @@ Another problem I ran into was when I was in the town. I found that you can hold
 
 One final problem I found was in one of the game's levels. I had to fight an ogre which acted as the level's boss. I was able to get the ogre to kill itself by luring it into a bed of spikes. However, this was not my intention. I was just trying to get to higher ground and shoot arrows at the ogre from a safe distance, but he fell into the spikes. As it turns out, the ogre had the key to exit the level, so I had to restart that level.
 
-I did have a lot of fun with the game. Finding new items and weapons alongside leveling up the player's stats is a good idea. It encourages repetition and exploration.
+There are some neat aspects of the game. For example, some levels have an extra doorway that leads to a dungeon. In these dungeons, you can find more loot.  There is also a survival-type mode where waves of enemies spawn. It's a good way of testing where you are level-wise and a quick way to earn money. If you can last long enough that is. 
 
-Some levels have an extra doorway that leads to a dungeon. In these dungeons, you can find more loot.
+The one thing that I loved the most is the treasure chests. Instead of finding a special key to open a treasure chest, you instead have to pick the chest's lock. This is a fun minigame which I liked quite a bit.
+
+I did have a lot of fun with the game. Finding new items and weapons alongside leveling up the player's stats is a good idea. It encourages repetition and exploration. The music and graphics pair well to create the world and don't get annoying. Overall, it was a pretty fun game
